@@ -1,0 +1,9 @@
+package meuProjeto.Aluno;
+
+public class Soma {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	}
+
+}
